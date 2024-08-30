@@ -1,0 +1,7 @@
+A)
+Na linha 7: ex: a=5 & b=8
+            s = 26
+            "5, 8, 26"
+
+B)
+R: Não, a leitura correta é pela variável e não pelo ponteiro.
